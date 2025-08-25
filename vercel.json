@@ -9,5 +9,6 @@
     "app/api/**/*.ts": {
       "maxDuration": 30
     }
-  }
+  },
+  "comment": "Updated to force new deployment with fixed dependencies"
 }
